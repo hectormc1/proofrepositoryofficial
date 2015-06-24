@@ -4,7 +4,7 @@
   [HotelAttribute attributeNumber="534" databaseId="3884394955" assetId="54311428" majorVersion="25" minorVersion="0 instanceNumber="0" notApplicable="false" completeness="0.0" processing="false" unsubmitted="false" changed="false" deleted="false" invalid="false" invalidComment="null" compoundParent="null" multicardinalParent="3884394954"]
     [HotelAttribute attributeNumber="541" databaseId="3884394965" assetId="54311428" majorVersion="25" minorVersion="0 instanceNumber="null" notApplicable="false" completeness="0.0" processing="false" unsubmitted="false" changed="false" deleted="false" invalid="false" invalidComment="null" compoundParent="3884394955" multicardinalParent="null"]
       [Field name="hcm:dualFloat-Float1Value" id="3884394966" type="4"]
-        1.1
+        1.4
       [/Field]
       [Field name="hcm:dualFloat-Float2Value" id="3884394967" type="4"]
         2.3
